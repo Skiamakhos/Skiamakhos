@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Skiamakhos
+- 👋 Hi, I’m @Skiamakhos alas aka @MattMoranJava due to using the wrong damn email to log in here. 
 - 👀 I’m interested in back end programming.
-- 🌱 I’m currently learning Clojure
+- 🌱 I’m currently learning Clojure, and Spring/Spring Boot. Actually been working on a Spring web app for about 7 years but I suck at coding interviews so I'm trying to build a portfolio of stuff I'm doing on courses. Ever notice how no coding test ever seems to be anything like what you do 90% of the time as a jobbing developer? 
 - 💞️ I’m looking to collaborate on anything interesting. I've been using Java for years so I guess I could be useful for that.
 - 📫 How to reach me - HMU on Twitter, same handle.
 
